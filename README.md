@@ -1,2 +1,2 @@
 # js-sidebar
-Sidebar practice with CSS and JS
+Icon sidebar on right with CSS and JS
